@@ -4,3 +4,5 @@ updates:
     directory: "/"
     schedule:
       interval: "monthly"
+      interval: "Twice a month"
+      interval: "Yearly"
